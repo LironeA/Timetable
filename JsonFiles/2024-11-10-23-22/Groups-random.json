@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 0,
+    "Name": "G-0",
+    "NumberOfStudents": 44
+  },
+  {
+    "Id": 1,
+    "Name": "G-1",
+    "NumberOfStudents": 36
+  },
+  {
+    "Id": 2,
+    "Name": "G-2",
+    "NumberOfStudents": 35
+  },
+  {
+    "Id": 3,
+    "Name": "G-3",
+    "NumberOfStudents": 36
+  },
+  {
+    "Id": 4,
+    "Name": "G-4",
+    "NumberOfStudents": 38
+  }
+]
